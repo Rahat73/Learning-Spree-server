@@ -1,0 +1,62 @@
+[
+    {
+        "id": "01",
+        "title": "Python",
+        "imageURL": "https://i.ibb.co/XFTn4bd/python.png",
+        "price": 16.99,
+        "rating": 4.3,
+        "subtitle": "Expand your career opportunities with Python",
+        "description": "Take one of Learning Spree's range of Python courses and learn how to code using this incredibly useful language. Its simple syntax and readability makes Python perfect for Flask, Django, data science, and machine learning. You’ll learn how to build everything from games to sites to apps. Choose from a range of courses that will appeal to both beginners and advanced developers alike.",
+        "enrolled": 10960
+    },
+    {
+        "id": "02",
+        "title": "Excel",
+        "imageURL": "https://i.ibb.co/S31GSzn/excel.png",
+        "price": 12.99,
+        "rating": 4.3,
+        "subtitle": "Analyze and visualize data with Excel",
+        "description": "Take a Microsoft Excel course from Learning Spree, and learn how to use this industry-standard software. Real-world experts will show you the basics like how to organize data into sheets, rows and columns, and advanced techniques like creating complex dynamic formulas. Both small businesses and large companies use Excel to turn their raw data into actionable insights.",
+        "enrolled": 8232
+    },
+    {
+        "id": "03",
+        "title": "Web Development",
+        "imageURL": "https://i.ibb.co/xYF3MhD/web-dev.png",
+        "price": 18.99,
+        "rating": 4.1,
+        "subtitle": "Build websites and applications with Web Development",
+        "description": "The world of web development is as wide as the internet itself. Much of our social and vocational lives play out on the internet, which prompts new industries aimed at creating, managing, and debugging the websites and applications that we increasingly rely on.",
+        "enrolled": 19760
+    },
+    {
+        "id": "04",
+        "title": "JavaScript",
+        "imageURL": "https://i.ibb.co/7Y5DkMF/javascript.png",
+        "price": 11.99,
+        "rating": 4.2,
+        "subtitle": "Grow your software development skills with JavaScript",
+        "description": "JavaScript is a text-based computer programming language used to make dynamic web pages. A must-learn for aspiring web developers or programmers, JavaScript can be used for features like image carousels, displaying countdowns and timers, and playing media on a webpage. With JavaScript online classes, you can learn to build interactive web applications, choose the best framework, and work with other programming languages like HTML and CSS. ",
+        "enrolled": 12910
+    },
+    {
+        "id": "05",
+        "title": "Data Science",
+        "imageURL": "https://i.ibb.co/715m45j/data-science.png",
+        "price": 13.99,
+        "rating": 4.3,
+        "subtitle": "Lead data-driven decisions with Data Science",
+        "description": "Data science application is an in-demand skill in many industries worldwide — including finance, transportation, education, manufacturing, human resources, and banking. Explore data science courses with Python, statistics, machine learning, and more to grow your knowledge. Get data science training if you’re into research, statistics, and analytics.",
+        "enrolled": 4961
+    },
+    {
+        "id": "06",
+        "title": "AWS Certification",
+        "imageURL": "https://i.ibb.co/ZXCQFzJ/aws.png",
+        "price": 15.99,
+        "rating": 4.6,
+        "subtitle": "Become an expert in cloud computing with AWS Certification",
+        "description": "Prep for your AWS certification with an AWS course on Udemy. Learn the fundamentals of AWS such as working with a serverless platform, the various frameworks, security and more. With these courses, you’ll build the valuable skills you need to implement cloud initiatives — and open up new career opportunities. If you want to become an AWS developer, we’ve got the course for you.",
+        "enrolled": 3124
+    }
+]
