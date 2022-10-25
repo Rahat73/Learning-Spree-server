@@ -12,7 +12,11 @@ app.get('/courses', (req, res) => {
     res.send(courses);
 });
 
-
+app.get('/courses/:id', (req, res) => {
+    const id = req.params.id;
+    const selectedCourses = courses.find(n => n._id === id);
+    res.send(selectedCourses);
+});
 
 app.listen(port, () => {
     console.log('Learning-Spree API running on port', port);
